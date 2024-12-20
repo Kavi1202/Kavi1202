@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Kaviraj</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavi1202&label=Profile%20views&color=0e75b6&style=flat" alt="kavi1202" /> </p>
 
