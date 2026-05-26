@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to My Digital Workspace I'm Kaviraj</h1>
+<h1 align="center">👋 Welcome to My Digital Workspace | I'm Kaviraj</h1>
 <h3 align="center">QA Automation Engineer | Playwright · Selenium · Cucumber-JVM | GenAI-Powered Testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavi1202&label=Profile%20views&color=0e75b6&style=flat" alt="kavi1202" /> </p>
